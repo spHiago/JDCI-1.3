@@ -1,0 +1,14 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\bin\Debug\net8.0\ex01_tableof5.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\bin\Debug\net8.0\ex01_tableof5.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\bin\Debug\net8.0\ex01_tableof5.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\bin\Debug\net8.0\ex01_tableof5.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\bin\Debug\net8.0\ex01_tableof5.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\refint\ex01_tableof5.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ex01_tableof5.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex01_tableof5\obj\Debug\net8.0\ref\ex01_tableof5.dll
