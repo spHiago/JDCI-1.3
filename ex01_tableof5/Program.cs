@@ -10,11 +10,14 @@
 5 X 9 = 45
 5 X 10 = 50*/
 
-Console.WriteLine("Give me a number and i will return it multiplicated for 5:");
+Console.WriteLine("Give me a number and i will return it multiplicated by 5:");
 string input1 = Console.ReadLine();
 int number = int.Parse(input1);
 
 Console.WriteLine($"You choice the number {number}.");
-int i = 1;
-for (i = ; i < 11; i++);
+
+for (int i = 1; i < 11; i++)
+{
+    Console.WriteLine($"{number} x {i} = {number * i}.");
+}
 
