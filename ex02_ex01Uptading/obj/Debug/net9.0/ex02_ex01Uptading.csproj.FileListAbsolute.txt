@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\bin\Debug\net9.0\ex02_ex01Uptading.exe
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\bin\Debug\net9.0\ex02_ex01Uptading.deps.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\bin\Debug\net9.0\ex02_ex01Uptading.runtimeconfig.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\bin\Debug\net9.0\ex02_ex01Uptading.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\bin\Debug\net9.0\ex02_ex01Uptading.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\refint\ex02_ex01Uptading.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ex02_ex01Uptading.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex02_ex01Uptading\obj\Debug\net9.0\ref\ex02_ex01Uptading.dll
