@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\bin\Debug\net9.0\ex03_HalfTree.exe
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\bin\Debug\net9.0\ex03_HalfTree.deps.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\bin\Debug\net9.0\ex03_HalfTree.runtimeconfig.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\bin\Debug\net9.0\ex03_HalfTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\bin\Debug\net9.0\ex03_HalfTree.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\refint\ex03_HalfTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ex03_HalfTree.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex03_HalfTree\obj\Debug\net9.0\ref\ex03_HalfTree.dll
