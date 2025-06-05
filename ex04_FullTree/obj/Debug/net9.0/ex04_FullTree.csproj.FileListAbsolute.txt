@@ -1,0 +1,15 @@
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\bin\Debug\net9.0\ex04_FullTree.exe
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\bin\Debug\net9.0\ex04_FullTree.deps.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\bin\Debug\net9.0\ex04_FullTree.runtimeconfig.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\bin\Debug\net9.0\ex04_FullTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\bin\Debug\net9.0\ex04_FullTree.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.AssemblyInfoInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.AssemblyInfo.cs
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.csproj.CoreCompileInputs.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.sourcelink.json
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\refint\ex04_FullTree.dll
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.pdb
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ex04_FullTree.genruntimeconfig.cache
+C:\Users\suele\Desktop\C#\JDCI-1.3\ex04_FullTree\obj\Debug\net9.0\ref\ex04_FullTree.dll
