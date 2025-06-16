@@ -11,7 +11,7 @@ Example for number 4:
 
 Console.WriteLine("Por favor, digite um numero:");
 int linha = Convert.ToInt32(Console.ReadLine());
-
+  
 int linhaAtual = 0;
 int i = 0;
 

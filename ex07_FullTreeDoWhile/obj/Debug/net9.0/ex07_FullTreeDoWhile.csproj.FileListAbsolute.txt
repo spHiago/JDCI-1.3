@@ -1,0 +1,15 @@
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\bin\Debug\net9.0\ex07_FullTreeDoWhile.exe
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\bin\Debug\net9.0\ex07_FullTreeDoWhile.deps.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\bin\Debug\net9.0\ex07_FullTreeDoWhile.runtimeconfig.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\bin\Debug\net9.0\ex07_FullTreeDoWhile.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\bin\Debug\net9.0\ex07_FullTreeDoWhile.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.AssemblyInfoInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.AssemblyInfo.cs
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.sourcelink.json
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\refint\ex07_FullTreeDoWhile.dll
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.pdb
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ex07_FullTreeDoWhile.genruntimeconfig.cache
+C:\Users\HiagoFranco\Desktop\Assembly\JDCI-1.3\ex07_FullTreeDoWhile\obj\Debug\net9.0\ref\ex07_FullTreeDoWhile.dll
