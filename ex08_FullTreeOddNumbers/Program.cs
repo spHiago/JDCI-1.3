@@ -8,6 +8,7 @@ Example for number 4:
 */
 
 using System;
+using System.Runtime.Serialization.Formatters;
 namespace FullTree
 {
     class Program
@@ -16,28 +17,19 @@ namespace FullTree
         {
             Console.WriteLine("Enter the number of lines for the tree:");
             int lines = Convert.ToInt32(Console.ReadLine());
-            int i = 0;
-
-            while (i <= lines)
+            for (int i = 0; i < lines; i++)
             {
-                int spaces = 0;
-                while (spaces < lines - i)
+                for (int space = 0; space < lines - i; space++)
                 {
                     Console.Write(" ");
-                    spaces++;
                 }
-                int astDir = 0;
-                while (astDir <= 2 * i)
+                for (int ast = 0; ast <= 2 * i; ast++)
                 {
                     Console.Write("*");
-                    astDir++;
                 }
                 Console.WriteLine();
-                i++;
-
             }
 
         }
     }
 }
-
