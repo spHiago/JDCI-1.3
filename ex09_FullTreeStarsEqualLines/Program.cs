@@ -22,7 +22,7 @@ namespace FullTree
 
             for (int i = 0; i <= lines; i++)
             {
-               for (int space = 0;  space < lines; space++)
+               for (int space = 0;  space < lines - i; space++)
                 {
                     Console.Write(" ");
                 }

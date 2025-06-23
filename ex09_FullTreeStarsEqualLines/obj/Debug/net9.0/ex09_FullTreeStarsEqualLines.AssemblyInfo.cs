@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex09_FullTreeStarsEqualLines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7e2c5cc09415aade872b92ab7ed5606b26d944a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+730c3e66bbd301f94102d25eb00c1da80f23e98f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex09_FullTreeStarsEqualLines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex09_FullTreeStarsEqualLines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
