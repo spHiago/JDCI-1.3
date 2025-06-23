@@ -1,0 +1,15 @@
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\bin\Debug\net9.0\ex09_FullTreeStarsEqualLines.exe
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\bin\Debug\net9.0\ex09_FullTreeStarsEqualLines.deps.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\bin\Debug\net9.0\ex09_FullTreeStarsEqualLines.runtimeconfig.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\bin\Debug\net9.0\ex09_FullTreeStarsEqualLines.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\bin\Debug\net9.0\ex09_FullTreeStarsEqualLines.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.AssemblyInfoInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.AssemblyInfo.cs
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.csproj.CoreCompileInputs.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.sourcelink.json
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\refint\ex09_FullTreeStarsEqualLines.dll
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.pdb
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ex09_FullTreeStarsEqualLines.genruntimeconfig.cache
+C:\Users\AssemblyAdmin\Desktop\Assembly Hiago\JDCI-1.3\ex09_FullTreeStarsEqualLines\obj\Debug\net9.0\ref\ex09_FullTreeStarsEqualLines.dll
